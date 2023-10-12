@@ -1,10 +1,11 @@
 import React from 'react';
 
+// Footer component
 function Footer() {
   return (
     <footer className = "footer">
         <div className = "footer__addr">
-            <h1 clasName = "footer__logo">Something</h1>
+            <h1 clasName = "footer__logo">rAIn Tech.</h1>
             <h2>Contact</h2>
             <address>
                 No 7 Hospital Road QIT
